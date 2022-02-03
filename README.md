@@ -16,11 +16,19 @@
 npm i
 ```
 
-## Author
+## Author's
 
 👤 **JackRichardson aka Kaban**
 
 * Github: [@JackRichardson666](https://github.com/JackRichardson666)
+
+👤 **Slappy**
+
+* Github: [@slpkbt](https://github.com/slpkbt)
+
+👤 **Elderly**
+
+* Github: [@Eld3rly](https://github.com/Eld3rly)
 
 ## 🤝 Contributing
 
