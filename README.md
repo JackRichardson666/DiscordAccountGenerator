@@ -44,4 +44,4 @@ Copyright © 2022 [JackRichardson aka Kaban](https://github.com/JackRichardson66
 This project is [GNU GENERAL PUBLIC LICENSE](https://github.com/JackRichardson666/DiscordAccountGenerator/blob/main/README.md) licensed.
 
 ***
-_This project was generated with ❤️ by [jack richardson](https://github.com/JackRichardson666)_
+_This project was created with ❤️ by [jack richardson](https://github.com/JackRichardson666)_
