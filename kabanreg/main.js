@@ -195,7 +195,6 @@ function init_driver() {
         try {
             if (solved[0].isSolved) {
                 console.log("\n[Captha]", "Решил капчу на почте");
-                //page.eval(`(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()`);
                 return true;
             }
         } catch (e) {
