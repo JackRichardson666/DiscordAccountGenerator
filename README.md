@@ -10,33 +10,24 @@
 
 ### 🏠 [Homepage](https://github.com/JackRichardson666/DiscordAccountGenerator)
 
-## Install
+## Installation
 
 ```sh
-npm i
+npm install
 ```
 
 ## Author's
 
-👤 **JackRichardson aka Kaban**
+- JackRichardson aka Kaban ([Github](https://github.com/JackRichardson666))
+- Slappy ([Github](https://github.com/slpkbt))
+- Elderly ([Github](https://github.com/Eld3rly))
+---
 
-* Github: [@JackRichardson666](https://github.com/JackRichardson666)
+## 📚 More information
 
-👤 **Slappy**
+- Contributions: issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/JackRichardson666/DiscordAccountGenerator/issues). You can also take a look at the [contributing guide](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
+- Showing your support: give a ⭐️ if this project helped you!
 
-* Github: [@slpkbt](https://github.com/slpkbt)
-
-👤 **Elderly**
-
-* Github: [@Eld3rly](https://github.com/Eld3rly)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/JackRichardson666/DiscordAccountGenerator/issues). You can also take a look at the [contributing guide](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
